@@ -93,8 +93,6 @@
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" height="40" alt="Electron" />
 			<br>Electron
 		</td>
-        <td></td>
-        <td></td>
 	</tr>
 </table>
 
