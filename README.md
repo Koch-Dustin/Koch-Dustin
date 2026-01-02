@@ -100,7 +100,7 @@
 
 ## 🏢 Berufserfahrung
 
-> **5Minds GmbH & Co.KG**  
+> **5Minds IT-Solutions**  
 > Junior Anwendungsentwickler : Fullstack  
 > Gelsenkirchen  
 > 2022 – 2025
