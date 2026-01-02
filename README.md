@@ -136,7 +136,7 @@
 ## ℹ Bonus Informationen
 
 <details>
-	<summary style="font-size:1.2em;"><b>Mehr Infos für Interessierte</b></summary>
+	<summary style="font-size:1.2em;"><b>Mein Start in die Programmierung</b></summary>
 	<br>
 	Meine Liebe zur Programmierung fing früh an. Mit 12 Jahren habe ich durch Minecraft meine ersten Erfahrungen gesammelt und mit Java Spielerweiterungen/Plugins geschrieben.
 	<br>
