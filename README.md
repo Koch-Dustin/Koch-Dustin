@@ -100,14 +100,12 @@
 
 ## 🏢 Berufserfahrung
 
-<div style="border-left: 6px solid #4CAF50; padding-left: 40px; margin-top: 40px; margin-bottom: 40px;">
-	<div style="margin-bottom: 50px;">
-		<h2 style="margin: 0; font-size: 2em;">5Minds GmbH & Co.KG</h2>
-		<h3 style="margin: 0; font-size: 1.3em; font-weight: normal; color: #555;">Junior Anwendungsentwickler : Fullstack</h3>
-		<h3 style="margin: 0; font-size: 1.3em; font-weight: normal; color: #555;">Gelsenkirchen</h3>
-		<span style="font-size: 1.1em; color: #888;">2022 – 2025</span>
-	</div>
-</div>
+> **5Minds GmbH & Co.KG**  
+> Junior Anwendungsentwickler : Fullstack  
+> Gelsenkirchen  
+> 2022 – 2025
+
+
 
 ## 🏆 Zertifizierungen
 
